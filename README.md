@@ -6,9 +6,9 @@ I’m transitioning from a career in logistics management to software developmen
 
 I’ve also completed a Professional Data Science Program at Open Universiteit (Maastricht, NL), where I worked on supervised machine learning projects using Python and Jupyter Notebook. My skills include SQL, Python, Power BI, and continuous improvement techniques.
 
-💻 Currently Learning: building desktop app with Python
-📊 Key Skills: Data Analytics, Business Intelligence, Process Optimization, Project Management
-🚀 Projects: Data science projects, software development tasks, and more coming soon!
+💻 Currently Learning: building desktop app with Python  
+📊 Key Skills: Data Analytics, Business Intelligence, Process Optimization, Project Management  
+🚀 Projects: Data science projects, software development tasks, and more coming soon!  
 
 <!--
 **Nicolas-Bury/Nicolas-Bury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
