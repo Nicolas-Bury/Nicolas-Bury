@@ -6,7 +6,7 @@ I’m transitioning from a career in logistics management to software developmen
 
 I’ve also completed a Professional Data Science Program at Open Universiteit (Maastricht, NL), where I worked on supervised machine learning projects using Python and Jupyter Notebook. My skills include SQL, Python, Power BI, and continuous improvement techniques.
 
-💻 Currently Learning: building desktop app with Python  
+💻 Currently Learning: Business Intelligence 
 📊 Key Skills: Data Analytics, Business Intelligence, Process Optimization, Project Management  
 🚀 Projects: Data science projects, software development tasks, and more coming soon!  
 
