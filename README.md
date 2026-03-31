@@ -1,14 +1,10 @@
-## Hi, I’m Nicolas Bury! 👋
+## Hi, I’m Nicolas Schmeiser! 👋
 
-Aspiring Software Developer | Data Analyst | Problem Solver
+BUSINESS INTELLIGENCE ANALYST | POWER BI | SQL
 
-I’m transitioning from a career in logistics management to software development. With a strong background in data analytics, process optimization, and project management in multinational environments, I’m now pursuing a B.Sc. in Software Development at IU Internationale Hochschule.
+Business Intelligence Analyst with strong operational expertise and technical foundation. Eight years of experience in international logistics environments at DHL, including leadership roles managing transport operations and cross-functional teams.
 
-I’ve also completed a Professional Data Science Program at Open Universiteit (Maastricht, NL), where I worked on supervised machine learning projects using Python and Jupyter Notebook. My skills include SQL, Python, Power BI, and continuous improvement techniques.
-
-💻 Currently Learning: Business Intelligence  
-📊 Key Skills: Data Analytics, Business Intelligence, Process Optimization, Project Management  
-🚀 Projects: Data science projects, software development tasks, and more coming soon!  
+Experienced in transforming operational data into actionable insights using Power BI, SQL and data modeling. Currently working as a BI Analyst while completing a BSc in Software Development to deepen expertise in data systems and analytics.
 
 <!--
 **Nicolas-Bury/Nicolas-Bury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
